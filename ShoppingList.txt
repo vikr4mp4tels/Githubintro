@@ -8,3 +8,4 @@ Cherries
 Cereal
 Milk
 potatoes
+peanuts
