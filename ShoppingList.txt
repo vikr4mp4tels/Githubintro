@@ -6,3 +6,4 @@ Bananas
 Carrots
 Cherries
 Cereal
+Milk
