@@ -8,3 +8,6 @@ Cherries
 Cereal
 Milk
 potatoes
+Flour
+eggs
+herbs
