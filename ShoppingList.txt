@@ -8,3 +8,5 @@ Cherries
 Cereal
 Milk
 potatoes
+noodles 
+Rice
